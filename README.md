@@ -17,7 +17,7 @@
 
 - **[Arkanoid - Grupo Atómico](https://github.com/NataliaRodicio/Arkanoid_Grupo_Atomico)**: Este proyecto consiste en la creación de un **juego tipo Arkanoid** utilizando **Python** y **Pygame**. El juego tiene la mecánica clásica de romper bloques con una pelota y una paleta que se mueve por la pantalla.
 
-**Para ver mas proyectos visita nuestro [repositorio](https://github.com/NataliaRodicio) .**
+**Para ver mas proyectos visita mi [repositorio](https://github.com/NataliaRodicio) .**
 
 ## 🛠️ Lenguajes y Herramientas
 ### 💻 Lenguajes de Programacion 
